@@ -1,0 +1,32 @@
+﻿<Window x:Class="Store_of_safety_and_security_products1.Personal_account"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Store_of_safety_and_security_products1"
+        mc:Ignorable="d"
+        Title="Personal_account" WindowState="Maximized" FontSize="32" FontFamily="Times New Poman">
+    <StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel>
+                <Image Source="E:\Литвин\Практика\Store of safety and security products1\Recourses\pic.jpg" Height="100" Margin="10,0,0,0"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Антивор" FontSize="32" Foreground="OrangeRed" FontWeight="DemiBold" HorizontalAlignment="Center" Margin="0,30,0,0"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBox Width="400" Margin="20,30,0,0" BorderBrush="Gray"/>
+            </StackPanel>
+            <StackPanel>
+                <Image Source="E:\Литвин\Практика\Store of safety and security products1\Recourses\corsina.jpg" Height="80" Margin="10,10,0,0"/>
+            </StackPanel>
+            <StackPanel>
+                <Button Content="Корзина" Margin="20,30,0,0" BorderBrush="White" Background="White"/>
+            </StackPanel>
+        </StackPanel>
+        
+        
+        
+    </StackPanel>
+</Window>

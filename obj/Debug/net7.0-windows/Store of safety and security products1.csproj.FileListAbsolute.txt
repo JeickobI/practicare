@@ -1,0 +1,66 @@
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.csproj.AssemblyReference.cache
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Personal account.g.cs
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Registration.g.cs
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\App.g.cs
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1_MarkupCompile.cache
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1_MarkupCompile.lref
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Store of safety and security products1.exe
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Store of safety and security products1.deps.json
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Store of safety and security products1.runtimeconfig.json
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Store of safety and security products1.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Store of safety and security products1.pdb
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Humanizer.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Литвин\Практика\Store of safety and security products1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Personal account.baml
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Registration.baml
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.g.resources
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.AssemblyInfoInputs.cache
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.AssemblyInfo.cs
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.csproj.CoreCompileInputs.cache
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.csproj.CopyComplete
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.dll
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\refint\Store of safety and security products1.dll
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.pdb
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\Store of safety and security products1.genruntimeconfig.cache
+E:\Литвин\Практика\Store of safety and security products1\obj\Debug\net7.0-windows\ref\Store of safety and security products1.dll
